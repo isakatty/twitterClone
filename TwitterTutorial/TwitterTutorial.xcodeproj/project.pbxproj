@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C933C6652A938FFE00B30100 /* Utilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = C933C6642A938FFE00B30100 /* Utilites.swift */; };
 		C9C47EB52A92249F0012C896 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C47EB42A92249F0012C896 /* AppDelegate.swift */; };
 		C9C47EB72A92249F0012C896 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C47EB62A92249F0012C896 /* SceneDelegate.swift */; };
 		C9C47EBC2A92249F0012C896 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9C47EBA2A92249F0012C896 /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C933C6642A938FFE00B30100 /* Utilites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilites.swift; sourceTree = "<group>"; };
 		C9C47EB12A92249F0012C896 /* TwitterTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9C47EB42A92249F0012C896 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9C47EB62A92249F0012C896 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				C9C47EDA2A925E240012C896 /* Extensions.swift */,
+				C933C6642A938FFE00B30100 /* Utilites.swift */,
 			);
 			path = Uilts;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				C9C47ED72A9227390012C896 /* ConversationsController.swift in Sources */,
 				C9C47EB52A92249F0012C896 /* AppDelegate.swift in Sources */,
 				C9C47EDB2A925E240012C896 /* Extensions.swift in Sources */,
+				C933C6652A938FFE00B30100 /* Utilites.swift in Sources */,
 				C9C47ED32A9227180012C896 /* ExploreController.swift in Sources */,
 				C9C47EB72A92249F0012C896 /* SceneDelegate.swift in Sources */,
 				C9C47ECF2A9225C40012C896 /* MainTabController.swift in Sources */,
